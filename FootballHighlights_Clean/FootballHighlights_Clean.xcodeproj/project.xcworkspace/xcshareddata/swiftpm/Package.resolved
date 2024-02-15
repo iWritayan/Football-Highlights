@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "5b92f029fab2cce44386d28588098b5be0824ef5",
+        "version" : "7.11.0"
+      }
+    },
+    {
+      "identity" : "network-manager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iWritayan/Network-Manager.git",
+      "state" : {
+        "revision" : "fb956533147ceba36148fe278960790de9cd4ff9",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "swift-snapshot-testing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-snapshot-testing",
+      "state" : {
+        "revision" : "e7b77228b34057041374ebef00c0fd7739d71a2b",
+        "version" : "1.15.3"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "64889f0c732f210a935a0ad7cda38f77f876262d",
+        "version" : "509.1.1"
+      }
+    },
+    {
+      "identity" : "swiftloader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/leoru/SwiftLoader.git",
+      "state" : {
+        "revision" : "3d03ac07764075bfab4c9ce9d5ba4556d6af350e",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swiftui-preview-snapshots",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/doordash-oss/swiftui-preview-snapshots.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "36cd3662a48ef75cc13eae182d468178279a0445"
+      }
+    }
+  ],
+  "version" : 2
+}
